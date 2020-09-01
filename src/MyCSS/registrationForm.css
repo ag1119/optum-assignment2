@@ -1,0 +1,38 @@
+.registration-form{
+	padding:20px;
+	background-color:white;
+}
+
+.registration-form input[type=text]{
+	display:block;
+	width:90%;
+	margin-bottom:10px;
+	height:30px;
+	
+}
+
+input[type=submit]{
+	display:block;
+	min-width:15%;
+	margin-left:75%;
+	height:30px;
+	background-color:#ff8c00;
+	color:white;
+	border:solid 0.5px navy;
+}
+input[type=submit]:hover{
+	background-color:navy;
+}
+
+.id-label{
+    color: gray;
+}
+
+.generated-id{
+	color:navy;
+	font-style: bold;
+}
+.error{
+	color:red;
+	font-size:12px;
+}

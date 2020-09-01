@@ -1,0 +1,21 @@
+h3{
+	color:navy;
+	text-align:center;
+}
+ul{
+	list-style-type:none;
+}
+.list-item{
+	background-color:white;
+	margin-top:2px;
+	padding:10px;
+}
+.item-title{
+	font-size:16px;
+	margin-top:5px;
+	color:black;
+}
+.item-details{
+	font-size:14px;
+	color:gray;
+}
